@@ -27,7 +27,9 @@ Various attributes related to the target variable including product/category col
 RetailPulse/
 │── 📄 README.md                               # Project documentation
 │── 📂 data/                                  # Contains raw and cleaned datasets
-│   │── 📄 Churn_Data.csv                      # Cleaned data file
+│   │── 📄 Train_Data.csv                      # Use for train the model
+│   │── 📄 Cleaned_Data.csv                    # Use for Power Bi dashboard and Visualization
+│   │── 📄 Test_Data.csv                       # Use for prediction
 │── 📂 notebooks/                              # Jupyter notebooks for EDA and ML
 │   │── 📄 EDA_and_Model.ipynb                 # Preprocessing and ML notebook
 │   │── 📄 Customer_Insights_Dashboard.pbix    # Power Bi for final dashboard
