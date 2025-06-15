@@ -2,7 +2,7 @@
 
 ## 📝 Overview
 
-This project demonstrates an end-to-end data science pipeline using Python and Power BI. From data preprocessing and model training to insightful visual storytelling, this collaborative effort showcases how a dataset can be transformed into valuable business insights. The project was executed by **Team A** consisting of three members: Mahesh Mahto, Ashwin Kumar, and Anas Zaki.
+This project demonstrates an end-to-end data science pipeline using Python and Power BI. From data preprocessing and model training to insightful visual storytelling, this collaborative effort showcases how a dataset can be transformed into valuable business insights. The project was executed by **Analytics Alley** consisting of three members: Mahesh Mahto, Ashwin Kumar, and Anas Zaki.
 
 ---
 
