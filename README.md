@@ -94,8 +94,8 @@ Power BI was used to design a fully interactive business dashboard. Features inc
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/your-username/team-ds-project.git
-cd team-ds-project
+git clone https://github.com/Anas-Zaki/Retention-Radar-Telecom-Customer-Insights.git
+cd Retention-Radar-Telecom-Customer-Insights
 ```
 
 2. **Install Python dependencies**
